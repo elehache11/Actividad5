@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Base de datos local de MLflow
+mlflow.db
+mlflow.db-*
+mlflow.db-journal
+
+# Artefactos y registros locales de MLflow
+mlruns/
+mlartifacts/
+
+# Archivos temporales de prueba
+resultado_prueba.txt
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
