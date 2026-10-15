@@ -234,3 +234,6 @@ resultado_prueba.txt
 # Archivos temporales de Python
 __pycache__/
 *.pyc
+
+# Archivos de pruebas locales
+fuentes/pruebas/
